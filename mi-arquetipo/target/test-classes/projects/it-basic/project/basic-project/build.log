@@ -1,0 +1,54 @@
+[INFO] Error stacktraces are turned on.
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ---------------------< archetype.it:basic-project >---------------------
+[INFO] Building basic-project 0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- resources:3.0.2:resources (default-resources) @ basic-project ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\programacionII\proyectos\entrega5\mi-arquetipo\target\test-classes\projects\it-basic\project\basic-project\src\main\resources
+[INFO] 
+[INFO] --- compiler:3.8.0:compile (default-compile) @ basic-project ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to C:\programacionII\proyectos\entrega5\mi-arquetipo\target\test-classes\projects\it-basic\project\basic-project\target\classes
+[INFO] 
+[INFO] --- resources:3.0.2:testResources (default-testResources) @ basic-project ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\programacionII\proyectos\entrega5\mi-arquetipo\target\test-classes\projects\it-basic\project\basic-project\src\test\resources
+[INFO] 
+[INFO] --- compiler:3.8.0:testCompile (default-testCompile) @ basic-project ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to C:\programacionII\proyectos\entrega5\mi-arquetipo\target\test-classes\projects\it-basic\project\basic-project\target\test-classes
+[INFO] 
+[INFO] --- surefire:2.22.1:test (default-test) @ basic-project ---
+[INFO] Surefire report directory: C:\programacionII\proyectos\entrega5\mi-arquetipo\target\test-classes\projects\it-basic\project\basic-project\target\surefire-reports
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.22.1/surefire-junit4-2.22.1.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.22.1/surefire-junit4-2.22.1.pom (3.1 kB at 18 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-providers/2.22.1/surefire-providers-2.22.1.pom
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-providers/2.22.1/surefire-providers-2.22.1.pom (2.5 kB at 146 kB/s)
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.22.1/surefire-junit4-2.22.1.jar
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.22.1/surefire-junit4-2.22.1.jar (85 kB at 2.0 MB/s)
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running it.pkg.AppTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.037 s - in it.pkg.AppTest
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] 
+[INFO] --- jar:3.0.2:jar (default-jar) @ basic-project ---
+[INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.1/maven-shared-utils-3.0.1.jar
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.1/maven-shared-utils-3.0.1.jar (154 kB at 5.9 MB/s)
+[INFO] Building jar: C:\programacionII\proyectos\entrega5\mi-arquetipo\target\test-classes\projects\it-basic\project\basic-project\target\basic-project-0.1-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.980 s
+[INFO] Finished at: 2024-03-15T10:12:06+01:00
+[INFO] ------------------------------------------------------------------------
